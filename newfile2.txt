@@ -1,2 +1,2 @@
 This is my newfile to be practice
-second
+second hi this is the second commit
